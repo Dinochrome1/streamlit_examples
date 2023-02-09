@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+/_TEMP.py
+/_TEMP_JUPYTER.ipynb
+/streamlit_app.py
+.idea/
